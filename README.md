@@ -1,4 +1,4 @@
-<h2 Olá! Sou a Julia estudante de Engenharia da Computação.</h2>
+<h2 Olá! Sou a Julia estudante de Engenharia da Computação /h2>
 
 ###
 
