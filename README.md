@@ -42,8 +42,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Julia Vecchione">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Julia%20Vecchione&count=5" alt="Spotify recently played"  />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkxhctc6zi46elsllpnkqwa)
   </a>
 </div>
 
