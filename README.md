@@ -1,4 +1,4 @@
-<h2 Olá! Sou a Julia estudante de Engenharia da Computação /h2>
+<h2 align="left">Olá! Sou a Julia estudante de Engenharia da Computação</h2>
 
 ###
 
@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JuliaVecchione&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliaVecchione&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/2f/ee/1a/2fee1af80ae87451c3bf5d0d2a033231.gif"  />
 
 ###
 
@@ -35,15 +31,8 @@
 
 ###
 
-<br clear="both">
-
-
-
-###
-
 <div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22nkxhctc6zi46elsllpnkqwa&unique={true|1|on|yes})
-  </a>
+  <img height="300" src="https://media.tenor.com/0ufKblKdp5gAAAAd/japan-scenery.gif"  />
 </div>
 
 ###
