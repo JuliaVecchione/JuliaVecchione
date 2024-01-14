@@ -36,3 +36,5 @@
 </div>
 
 ###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuliaVecchione&bg_color=1f1f1f&color=ffffff&line=0d0c2c&point=000770&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
